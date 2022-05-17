@@ -1,10 +1,13 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# 🚀 Perfomance Scuf 
-
+# 🎮 Perfomance Scuf 
+![Afbeelding Lightroom test van Scuf website](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/scuf-light.png)
 
 ## ContentAudit
-Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot toe. 
+Website: https://scufgaming.com
+Datum: 17-5-2022
+![Afbeelding Scuf Reflex website](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/scuf-ps5.png)
+
 
 
 ### First Contentful Paint (FCP)
