@@ -1,13 +1,14 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# 🎮 Perfomance Scuf 
+# 🎮  Perfomance Audit Scuf 
 ![Afbeelding Lightroom test van Scuf website](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/scuf-lighthouse.png)
 
-## ContentAudit
-Website: https://scufgaming.com
-Datum: 17-5-2022
+## 📷  ContentAudit
+Op 20 mei 2022, heb ik een Content Audit uitgevoerd voor de Scuf Gaming website, deze Perfomance Audit  heb ik gedaan met behulp van Lighthouse. Op deze website kun je custom gaming controllers bestellen en heeft een performance score gekregen van 47.
+
 ![Afbeelding Scuf Reflex website](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/scuf.png)
 
+[🌐 Link](https://scufgaming.com/eu)
 
 
 ### First Contentful Paint (FCP)
