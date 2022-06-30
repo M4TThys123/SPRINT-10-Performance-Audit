@@ -9,29 +9,28 @@ Op 20 mei 2022, heb ik een Content Audit uitgevoerd voor de Scuf Gaming website,
 
 [🌐 Link](https://scufgaming.com/eu)
 
-
-### First Contentful Paint (FCP)
 <hr/>
+### First Contentful Paint (FCP)
 _Beschrijf de uitslag van de FCP van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
-### Time to Interactive (TTI)
 <hr/>
+### Time to Interactive (TTI)
 _Beschrijf de uitslag van de TTI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
-### Speed Index
 <hr/>
+### Speed Index
 _Beschrijf de uitslag van de SI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
-### Total Blocking Time (TBT)
 <hr/>
+### Total Blocking Time (TBT)
 _Beschrijf de uitslag van de TBT van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
-### Largest Contentful Paint (LCP)
 <hr/>
+### Largest Contentful Paint (LCP)
 _Beschrijf de uitslag van de LCP van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
-### Cumulative Layout Shift (CLS)
 <hr/>
+### Cumulative Layout Shift (CLS)
 _Beschrijf de uitslag van de CLS van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
 
