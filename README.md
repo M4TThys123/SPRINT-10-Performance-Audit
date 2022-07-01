@@ -30,10 +30,10 @@ Dit resultaat is wederom zeer negatief. De website laad onodige delen en kan ste
 
 ### Largest Contentful Paint (LCP)
 ![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/large-paint.png)
-_Beschrijf de uitslag van de LCP van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+De Largest Contentful Paint vallen wederom tegen. Een sugestie voor een verbetering is het vermijden van networkpayloads. Deze verandering zal veel tijd winnen.
 
 ### Cumulative Layout Shift (CLS)
-_Beschrijf de uitslag van de CLS van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+De Cumulative Layout Shift is daar in tegen wel postief, hier hoeft verder niks meer aan gebeuren.
 ![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/shift.png)
 
 
