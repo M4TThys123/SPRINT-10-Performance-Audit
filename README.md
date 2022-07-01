@@ -11,19 +11,24 @@ Op 20 mei 2022, heb ik een Content Audit uitgevoerd voor de Scuf Gaming website,
 
 ### First Contentful Paint (FCP)
 _Beschrijf de uitslag van de FCP van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
-
+![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/first-paint.png)
 
 ### Time to Interactive (TTI)
 _Beschrijf de uitslag van de TTI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
-
+![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/interact.png)
 
 ### Speed Index
+![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/speed.png)
+
 _Beschrijf de uitslag van de SI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
+
 ### Total Blocking Time (TBT)
+![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/blocking.png)
 _Beschrijf de uitslag van de TBT van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
 ### Largest Contentful Paint (LCP)
+![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/large-paint.png)
 _Beschrijf de uitslag van de LCP van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
 ### Cumulative Layout Shift (CLS)
