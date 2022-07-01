@@ -10,22 +10,23 @@ Op 20 mei 2022, heb ik een Content Audit uitgevoerd voor de Scuf Gaming website,
 [🌐 Link](https://scufgaming.com/eu)
 
 ### First Contentful Paint (FCP)
-_Beschrijf de uitslag van de FCP van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+De FCP score is veel te laag. Deze moet een stuk sneller worden. Het verwijderen van bronnen die weergave blokkeren zou een verbering zijn.
 ![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/first-paint.png)
 
 ### Time to Interactive (TTI)
-_Beschrijf de uitslag van de TTI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+De time to In teract is ook veelste lang! Deze moet onder de seconde zitten tewijl deze nu op 8.7 seconden staat.
 ![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/interact.png)
 
 ### Speed Index
 ![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/speed.png)
-
-_Beschrijf de uitslag van de SI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
-
+Deze kunnen verbeterd worden door:
+-Minifyen van de css
+-Verkorten van JavaScript
+-Inline css
 
 ### Total Blocking Time (TBT)
 ![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/blocking.png)
-_Beschrijf de uitslag van de TBT van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+Dit resultaat is wederom zeer negatief. De website laad onodige delen en kan sterk verbeterd worden op de blocking time
 
 ### Largest Contentful Paint (LCP)
 ![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/large-paint.png)
@@ -33,7 +34,7 @@ _Beschrijf de uitslag van de LCP van de test en toon de resultaten. Beschrijf wa
 
 ### Cumulative Layout Shift (CLS)
 _Beschrijf de uitslag van de CLS van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
-
+![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/shift.png)
 
 
 ## Bronnen
