@@ -23,9 +23,9 @@ De time to In teract is ook veelste lang! Deze moet onder de seconde zitten tewi
 ![🌐 Link](https://github.com/M4TThys123/SPRINT-10-Performance-Audit/blob/main/assets/speed.png)
 
 Deze kunnen verbeterd worden door:
--Minifyen van de css
--Verkorten van JavaScript
--Inline css
+ -Minifyen van de css
+ -Verkorten van JavaScript
+ -Inline css
 
 
 
